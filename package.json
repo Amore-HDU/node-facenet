@@ -38,7 +38,7 @@
     "@types/rimraf": "^2.0.2",
     "@types/sinon": "^4.0.0",
     "@types/sinon-test": "^1.0.2",
-    "@types/tape": "^4.2.30",
+    "@types/tape": "4.2.31",
     "@types/tar": "^4.0.0",
     "@types/update-notifier": "^2.0.0",
     "blue-tape": "^1.0.0",
